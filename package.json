@@ -1,0 +1,18 @@
+{
+  "name": "v2-afro-api",
+  "version": "1.0.0",
+  "description": "API for All African Countries, Capitals and Currencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "Africa"
+  ],
+  "author": "Usheninte Dangana",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
