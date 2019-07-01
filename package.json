@@ -1,5 +1,5 @@
 {
-  "name": "v2-afro-api",
+  "name": "afro-api",
   "version": "1.0.0",
   "description": "API for All African Countries, Capitals and Currencies.",
   "main": "index.js",
